@@ -12,6 +12,7 @@ const config = {
 
 		// add custom alias here
 		alias: {
+			'$root': './',
 			'$routes': './src/routes',
 			'$materi': './src/routes/materi'
 		}
