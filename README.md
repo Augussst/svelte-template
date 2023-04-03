@@ -10,3 +10,5 @@ great for a static course website, ready to build to github pages
 -typescript
 
 was a sharia banking course website for BSI Internship project but deprecated because the project was changed.
+
+Path still doesnt work, need to fix later
